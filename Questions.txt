@@ -1,0 +1,22 @@
+                                     Easy:
+
+1: Find 3 most senior employee based on job title? 
+2: Top 5 countries which have the most Invoices? 
+3: What are top 3 values of total invoice?
+4: Which are the top 5 city has the best customers? Return both the city name & sum
+of all invoice totals.
+5: Who is the best 3 customer? Best customer will be count based on spending
+money.
+
+                             Intermediate:
+
+1: Let's invite the 5 artists who have written the most rock music in our dataset.
+2: Write query to return the email, first name, last name, & Genre of all Rock Music listeners.
+Return your list ordered alphabetically by email starting with A.
+3: Return all the track names that have a song length longer than the average song length. 
+
+
+                                     Advance:
+
+1: Find out the most popular music Genre for each country. We determine the most popular
+genre as the Genre with the highest amount of purchases.
